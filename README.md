@@ -28,7 +28,9 @@ WindDir9am: Direction of the wind at 9am
 
 WindDir3pm: Direction of the wind at 3pm
 
-WindSpeed9am: Wind speed (km/hr) averaged over 10 minutes prior to 9amWindSpeed3pm: Wind speed (km/hr) averaged over 10 minutes prior to 3pm
+WindSpeed9am: Wind speed (km/hr) averaged over 10 minutes prior to 9am
+
+WindSpeed3pm: Wind speed (km/hr) averaged over 10 minutes prior to 3pm
 
 Humidity9am: Humidity (percent) at 9am
 
